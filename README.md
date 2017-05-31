@@ -9,3 +9,4 @@ TODO application build in NodeJs
 - Mongose for object modeling
 - Mlab for service hosting platform
 - ES6
+- EJS for JavaScript Template engine.
