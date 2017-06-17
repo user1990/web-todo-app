@@ -11,6 +11,16 @@ TODO application build in NodeJs
 - ES6
 - EJS for JavaScript Template engine.
 
-## Deployed
-
-The app is deployed [here](https://gentle-everglades-47988.herokuapp.com/) at Heroku.
+## Setup
+### 1. Clone Repository
+### 2. Run commands
+```
+npm install
+```
+```
+nodemon
+```
+### 3. Run in browser
+```
+Type: http://localhost:3000/todo
+```
